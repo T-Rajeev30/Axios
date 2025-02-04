@@ -74,7 +74,3 @@ This project is a simple React application that fetches product data from an Exp
 - **Frontend**: React.js, Axios, Vite
 - **Backend**: Express.js (Node.js)
 - **Proxying**: Vite proxy for seamless API calls
-
-## License
-This project is licensed under the MIT License.
-
